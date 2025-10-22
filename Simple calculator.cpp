@@ -4,6 +4,7 @@ int main() {
 	char choice;
 	double num1, num2;
 	cout << "Select an opreation to perform the calculator: ";
+	cout << "{+}, {-}, {*}, {/}: ";
 	cin >> choice;
 	cout << "Enter Two Digits: ";
 	cin >> num1 >> num2;
@@ -27,4 +28,5 @@ int main() {
 		break;
 	}
 	return 0;
+
 }
