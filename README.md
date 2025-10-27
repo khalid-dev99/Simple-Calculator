@@ -1,5 +1,5 @@
 🧮 Simple Calculator in C++:
-
+------------------------------------------------------------------
 This is a basic command-line calculator written in C++ that performs arithmetic operations between two numbers. The user is prompted to input an operation (+, -, *, or /) and then enter two numeric values.
 __________________________________________________________________
 📄 Features:
